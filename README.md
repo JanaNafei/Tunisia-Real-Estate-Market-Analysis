@@ -55,6 +55,7 @@ The project uses a Galaxy Schema containing two main business processes:
 - Booking
 
 These are connected through shared dimensions such as Customer, Employee, Date, Property, and Destination.
+<img width="1920" height="1080" alt="image-3" src="https://github.com/user-attachments/assets/de8b7f0f-f033-4b73-bfc4-bf7ccc28dba5" />
 
 ##  Dashboard
 
