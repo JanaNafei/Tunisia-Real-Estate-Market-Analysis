@@ -64,6 +64,14 @@ These are connected through shared dimensions such as Customer, Employee, Date, 
 - Price per square meter provides a better comparison between properties of different sizes.
 - Location and distance from the capital contribute to differences in property value.
 - Amenities such as pools, beach views, garages, and furnished status can be analyzed as potential price differentiators.
+  Dashboard 1 :
+  <img width="1167" height="647" alt="image" src="https://github.com/user-attachments/assets/705d8025-3a93-4fe9-a11b-ee8d8812ec5b" />
+  Dashboard 2 :
+  <img width="1600" height="1017" alt="image-1" src="https://github.com/user-attachments/assets/3251af77-fbd5-4ce0-a42b-be21be9bc1bf" />
+  <img width="1592" height="965" alt="image-2" src="https://github.com/user-attachments/assets/aaac8c87-7308-4ae5-9f30-343a78dc980b" />
+
+
+
 
 
 
