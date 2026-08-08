@@ -1,2 +1,71 @@
 # Tunisia-Real-Estate-Market-Analysis
 Data analysis of Tunisia’s real estate market, exploring property prices, locations, amenities, and key factors influencing property value.
+
+## 📊 Dataset Overview
+
+| Category | Description |
+|---|---|
+| Property Listings | 6,314 |
+| Customers | 94 |
+| Bookings | 103 |
+| Geographic Level | City / Governorate |
+| Currency | Tunisian Dinar (TND) / EUR |
+| Main Property Measure | Area (m²) |
+| Location Measures | Latitude, Longitude, Distance to Tunis |
+| Property Attributes | Rooms, bathrooms, age, condition |
+| Amenities | Pool, garage, garden, elevator, etc. |
+## 🔎 Key Insights
+
+- Property prices vary significantly across Tunisian cities and governorates.
+- Property area has an important relationship with asking price.
+- Price per square meter provides a better comparison between properties of different sizes.
+- Location and distance from the capital contribute to differences in property value.
+- Amenities such as pools, beach views, garages, and furnished status can be analyzed as potential price differentiators.
+
+##  Business Questions
+
+### Pricing
+- What is the average property price?
+- What is the median property price?
+- Which cities have the highest average prices?
+- Which governorates have the highest price per m²?
+
+### Location
+- Does distance from Tunis affect property prices?
+- Which locations have the highest property concentration?
+- Are coastal properties priced differently?
+
+### Property Characteristics
+- How does area affect price?
+- Does the number of rooms affect price?
+- Do bathrooms contribute to higher prices?
+- Does property condition affect value?
+
+### Amenities
+- Do properties with pools have higher prices?
+- Does a beach view increase property value?
+- Are furnished properties more expensive?
+- Does a garage, garden, elevator, or equipped kitchen add value?
+
+##  Data Model
+
+The project uses a Galaxy Schema containing two main business processes:
+
+- Property
+- Booking
+
+These are connected through shared dimensions such as Customer, Employee, Date, Property, and Destination.
+
+##  Dashboard
+
+- Property prices vary significantly across Tunisian cities and governorates.
+- Property area has an important relationship with asking price.
+- Price per square meter provides a better comparison between properties of different sizes.
+- Location and distance from the capital contribute to differences in property value.
+- Amenities such as pools, beach views, garages, and furnished status can be analyzed as potential price differentiators.
+
+
+
+
+
+
